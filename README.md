@@ -5,4 +5,5 @@ SCAN QR<br>
 <br>
 <br>
 DEPLOY BOT<br>
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrTima01/Bot-Z)
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ChamodKeshan/Hashzi-X)

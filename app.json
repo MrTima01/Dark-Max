@@ -1,5 +1,5 @@
 {
-    "name": "Amazone Alexa V8",
+    "name": "Dark Max V8",
     "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
     "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
@@ -19,7 +19,7 @@
         "BIO": {
             "description": "Change Your live Bio | ඔබේ About එකට අවශ්‍ය දෙයක් මෙහි ලියන්න",
             "required": false,
-            "value": "ɪ ᴀᵐ ⁿᵒᵗ ᵖᵉʳᶠᵉᶜᵗ ʙᵘᵗ ɪ  ᴀᵐ ʟⁱᵐⁱᵗᵉᵈ ᴇᵈⁱᵗⁱᵒⁿ👀🔥"
+            "value": ""
         },
         "AUTO_STICKER": {
             "description": "If you likes Auto Sticker you can write 'true'. Otherwise false",
@@ -29,22 +29,22 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "*◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*\n*⦁◊═⦁QUEEN 👸 ALEXA⦁═◊⦁*"
+            "value": "*DARK MAX*"
         },
-        "FULL_ALEXA": {
-            "description": "Activate alexa chat bot",
+        "THIS CMD WAS REMOVED": {
+            "description": "removed success",
             "required": false,
-            "value": "false"
+            "value": "rem"
         },
         "SONGD": {
             "description": "Customizable Song Download message",
             "required": false,
-            "value": "*◦•●◉Downloading Your Song◉●•◦*"
+            "value": "*HELLO USER🌹 I AM DOWNLOADING YOUR SONG*"
         },
         "SONGU": {
             "description": "Customizable Song upload message",
             "required": false,
-            "value": "*◦•●◉✿Uploading Your Song✿◉●•◦*"
+            "value": "*HELLO USER🌹 I AM UPLOADING YOUR SONG*"
         },
         "LANGUAGE": {
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
@@ -87,7 +87,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 👩‍🦰Amazone Alexa"
+            "value": "*POWERED BY DARK MAX MULTI DEVICE BOT*"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
@@ -112,7 +112,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://i.ibb.co/0Xzsqf1/In-Shot-20220218-194616984.jpg"
+            "value": "https://ibb.co/PmcvBjb"
         },
         "WELCOME_GIF": {
             "description": "Welcome message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
@@ -164,19 +164,14 @@
             "required": true,
             "value": "false"
         },
-        "PANEL_COMMAND": {
-            "description": "Customizeable commands list request command. Keep alexa if you don't want to change.",
-            "required": true,
-            "value": "alexa"
-        },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
             "required": false
         },
         "ALIVE_MESSAGE": {
             "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case.",
-            "required": false,
-            "value": "*Hey, I AM ALIVE NOW*\n*◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*\n*⦁◊═⦁QUEEN 👸 ALEXA⦁═◊⦁*"
+            "required": true,
+            "value": "default"
         },
         "BAN_MESSAGE": {
             "description": "The message you get when someone commands you as .ban and removes it. If you do not want to change this message, type default.",
@@ -236,7 +231,7 @@
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "*◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*\n*⦁◊═⦁QUEEN 👸 ALEXA⦁═◊⦁*"
+            "value": "default"
         }
     },
     "addons": [{

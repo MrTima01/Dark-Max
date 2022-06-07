@@ -1,14 +1,14 @@
 {
     "name": "Dark Max V8",
     "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
-    "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
+    "logo": "https://ibb.co/PmcvBjb",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
     "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
     "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
     "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
     "stack": "container",
     "env": {
-        "NEUTRO_SESSION": {
+        "DARK MAX_SESSION": {
             "description": "Paste your QR session.",
             "required": true
         },
